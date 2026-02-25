@@ -15,3 +15,5 @@ Date        | Class | Topic                     | Lab                       | Lo
 2026-02-11  | 4-2   | Loops                     | Loops                     | [`Lab 4-2`](labs/4-2_loops.md)
 2026-02-16  | 5-1   | Functions                 | Functions                 | [`Lab 5-1`](labs/5-1_functions.md)
 2026-02-18  | 5-2   | Tests                     | Tests                     | [`Lab 5-2`](labs/5-2_tests.md)
+2026-02-23  | 6-1   | Snow Day - Office Hours   | No lab                    | NA
+2026-02-25  | 6-2   | Code Review               | Code Review               labs/5-2 tests.md| [`Lab 6-2`](labs/6-2_code_review.md)
