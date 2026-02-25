@@ -3,31 +3,34 @@
 ## Task Description
 
 Create and test a function using Pytest. You will need to create
-two scripts (based on Homework 1). These are: the file with your program
-(`binary_converter.py`) and a file with tests, in a folder called
-`tests/` ('tests/test_binary_converter.py').
+two scripts: `class_testing.py` and `tests/test_class_testing.py`.
 
-In the `binary_converter.py` file, create a function
-named (`validate_conversion_type`) to
-check the validity of the first argument (the type of conversion).
-The valid input values are `d2b` and `b2d`. The function should
-return `True` if the input is valid, otherwise `False`.
+In the `class_testing.py` file, create a function
+named `string_checker.py` that takes two strings as arguments
+and checks if the second string is a substring of the first.
+The function should return `True` if the second string is a substring of the
+first, and `False` otherwise.
 
-In the `tests/test_binary_converter.py` file, create a test function
-named `test_validate_conversion_type` that tests the `validate_conversion_type`.
+In the `tests/test_class_testing.py` file, create a test function
+named `test_string_checker` that tests the `string_checker`.
 
-The test should have three cases:
-
-1. A valid input of `d2b` that should return `True`.
-2. A valid input of `b2d` that should return `True`.
-3. An invalid input of `x2y` that should return `False`.
+The test should have two cases, see the 
+example in the `tests/test_class_testing.py`
+file for reference.
 
 ## Testing
 
 ```bash
 # run this in the terminal
-pytest tests/test_binary_converter.py
+python -m pytest 
 ```
+
+If successful, the output should show that the tests passed.
+If it fails it will show the cause of the error. An 
+AssertionError means that the test failed because the expected output did not 
+match the actual output. In other words, the function did not return 
+what was expected.
+
 
 ### Alternate Testing Method
 
