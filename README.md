@@ -16,7 +16,7 @@ Date        | Class | Topic                     | Lab                       | Lo
 2026-02-16  | 5-1   | Functions                 | Functions                 | [`Lab 5-1`](labs/5-1_functions.md)
 2026-02-18  | 5-2   | Tests                     | Tests                     | [`Lab 5-2`](labs/5-2_tests.md)
 2026-02-23  | 6-1   | Snow Day - Office Hours   | No lab                    | NA
-2026-02-25  | 6-2   | Code Review               | Code Review               labs/5-2 tests.md| [`Lab 6-2`](labs/6-2_code_review.md)
-2026-03-02  | 7-1   | Requirements Gathering     | Requirements Gathering     | [`Lab 7-1`](labs/7-1_requirements.md)
-2026-03-04  | 7-2   | Career Fair - No Class | No lab                    | NA
+2026-02-25  | 6-2   | Code Review               | Code Review               | [`Lab 6-2`](labs/6-2_code_review.md)
+2026-03-02  | 7-1   | Requirements Gathering    | Requirements Gathering    | [`Lab 7-1`](labs/7-1_requirements.md)
+2026-03-04  | 7-2   | Career Fair - No Class    | No lab                    | NA
 2026-03-09  | 8-1   | Read/Write                | Read/Write                | [`Lab 8-1`](labs/8-1_read-write.md)
