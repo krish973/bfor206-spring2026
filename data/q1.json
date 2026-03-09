@@ -1,0 +1,14 @@
+{
+    "question_id": "q_01",
+    "question_text": "What is the capital of NY?",
+    "answers": [
+        {
+            "answer_text": "Albany",
+            "is_correct": true
+        },
+        {
+            "answer_text:": "New York City",
+            "is_correct": false
+        }
+    ]
+}

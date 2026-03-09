@@ -2,6 +2,9 @@
 A script to demonstrate reading and writing
 different file types in Python.
 """
+# imports
+import json
+
 
 # empty list to store file lines
 text_contents = []
@@ -17,3 +20,18 @@ print(text_contents)
 
 # The \n character in the output is a special character
 # for a newline
+
+# load the json file
+with open('data/q1.json', 'r') as f:
+    question = json.load(f)
+
+# print it
+print(question)
+
+# this is stored as a dictionary
+# they are stored as "key": value
+# access values by key
+print(f'Question ID: {question['question_id']}')
+print(f'Question Text: {question['question_text']}')
+print(f'Question answers: {question['answers']}')
+
