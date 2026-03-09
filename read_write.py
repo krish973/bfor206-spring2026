@@ -42,7 +42,7 @@ print(f"files in the data folder: {files}")
 # write to a new file
 # make sure you have a folder called 'output'
 with open('output/answers.csv', 'w') as f:
-    f.write('question_id,question_text,correct_answer')
+    f.write('question_id,question_text,correct_answer\n')
 
 for file in files:
     print(f"file: {file}")
@@ -61,5 +61,6 @@ for file in files:
         # use a for loop to get the correct answer
 
         # append the question id, text, and correct answer to the csv file
-        # use 'a' -> with open('output/answers.csv', 'a') as f:
-        # f.write(f"{question_id},{question_text},{correct_answer}\n")
+        # use 'a' -> 
+        # with open('output/answers.csv', 'a') as f:
+        #   f.write(f"{question_id},{question_text},{correct_answer}\n")
