@@ -21,3 +21,4 @@ Date        | Class | Topic                     | Lab                       | Lo
 2026-03-04  | 7-2   | Career Fair - No Class    | No lab                    | NA
 2026-03-09  | 8-1   | Read/Write                | Read/Write                | [`Lab 8-1`](labs/8-1_read-write.md)
 2026-03-11  | 8-2   | Pull Requests             | Pull Requests             | [`Lab 8-2`](labs/8-2_pull_requests.md)
+2026-03-23  | 9-1   | Interviews                | Interviews                | [`Lab 9-1`](labs/9-1_interview.md)

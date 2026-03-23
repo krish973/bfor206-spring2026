@@ -19,7 +19,7 @@ questions.
 
 ---
 
-## 3. Sub‑Area Requirements Evaluation 
+## 3. Sub‑Area Requirements Evaluation
 
 Each team member’s designated sub‑area will be graded on the following criteria:
 

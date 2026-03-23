@@ -1,4 +1,4 @@
-# BFOR 206 Lab 8-1: Pull Requests
+# BFOR 206 Lab 8-2: Pull Requests
 
 ## Task Description
 
